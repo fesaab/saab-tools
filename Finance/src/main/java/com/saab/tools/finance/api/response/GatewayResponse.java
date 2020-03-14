@@ -1,4 +1,4 @@
-package com.saab.tools.finance.api;
+package com.saab.tools.finance.api.response;
 
 import java.util.Collections;
 import java.util.HashMap;
